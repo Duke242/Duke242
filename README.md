@@ -1,5 +1,3 @@
-# Mohamad Aboukhodr
-
 Co-founder and CTO of **ByteBound**, where I build and run a white-label booking and payments platform for independent gyms and studios. Before software, I studied biochemistry.
 
 Real gyms run on it every day. I own it end to end: the database, the API, the owner portal, the member apps and the on-call.
